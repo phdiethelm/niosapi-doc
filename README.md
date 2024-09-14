@@ -47,15 +47,29 @@ PDFs also available at https://ftp.zx.net.nz/pub/mirror/novell/clients/niosapi-d
 | Appendix 14A | NCPs Requiring Licensing                                     | [C14ALIC.pdf](PDF/CL32/C14ALIC.pdf)   |
 
 ## NetWare Client NIOS Design Specification
-| Chapter             | Title                                    | Link                                  |
-| ------------------- | ---------------------------------------- | ------------------------------------- |
-| Title, TOC, Preface | NetWare Client NIOS Design Specification | [NIOS_FNT.pdf](PDF/NIOS/NIOS_FNT.pdf) |
-| Chapter 1           | Design Overview                          | [NIOS_CH1.pdf](PDF/NIOS/NIOS_CH1.pdf) |
-| Chapter 2           | NIOS Design                              | [NIOS_CH2.pdf](PDF/NIOS/NIOS_CH2.pdf) |
-| Chapter 3           | NIOS Client NLMs                         | [NIOS_CH3.pdf](PDF/NIOS/NIOS_CH3.pdf) |
-| Chapter 4           | Memory Pool Services                     | [NIOS_CH4.pdf](PDF/NIOS/NIOS_CH4.pdf) |
-| Chapter 5           | Popup Video Services                     | [NIOS_CH5.pdf](PDF/NIOS/NIOS_CH5.pdf) |
-| Chapter 6           | NIOS API                                 | [NIOS_CH6.pdf](PDF/NIOS/NIOS_CH6.pdf) |
-| Chapter 7           | NIOS Structures, Definitions, and Events | [NIOS_CH7.pdf](PDF/NIOS/NIOS_CH7.pdf) |
-| Chapter 8           | Accessing an NLM from a Vxd              | [NIOS_CH8.pdf](PDF/NIOS/NIOS_CH8.pdf) |
-| Appendix A          | NetWare Event Service Layer              | [NIOS_APA.pdf](PDF/NIOS/NIOS_APA.pdf) |
+| Chapter             | Title                                    | Link                                           |
+| ------------------- | ---------------------------------------- | ---------------------------------------------- |
+| Title, TOC, Preface | NetWare Client NIOS Design Specification | [NIOS_FNT.pdf](PDF/NIOS/NIOSPORT/NIOS_FNT.pdf) |
+| Chapter 1           | Design Overview                          | [NIOS_CH1.pdf](PDF/NIOS/NIOSPORT/NIOS_CH1.pdf) |
+| Chapter 2           | NIOS Design                              | [NIOS_CH2.pdf](PDF/NIOS/NIOSPORT/NIOS_CH2.pdf) |
+| Chapter 3           | NIOS Client NLMs                         | [NIOS_CH3.pdf](PDF/NIOS/NIOSPORT/NIOS_CH3.pdf) |
+| Chapter 4           | Memory Pool Services                     | [NIOS_CH4.pdf](PDF/NIOS/NIOSPORT/NIOS_CH4.pdf) |
+| Chapter 5           | Popup Video Services                     | [NIOS_CH5.pdf](PDF/NIOS/NIOSPORT/NIOS_CH5.pdf) |
+| Chapter 6           | NIOS API                                 | [NIOS_CH6.pdf](PDF/NIOS/NIOSPORT/NIOS_CH6.pdf) |
+| Chapter 7           | NIOS Structures, Definitions, and Events | [NIOS_CH7.pdf](PDF/NIOS/NIOSPORT/NIOS_CH7.pdf) |
+| Chapter 8           | Accessing an NLM from a Vxd              | [NIOS_CH8.pdf](PDF/NIOS/NIOSPORT/NIOS_CH8.pdf) |
+| Appendix A          | NetWare Event Service Layer              | [NIOS_APA.pdf](PDF/NIOS/NIOSPORT/NIOS_APA.pdf) |
+
+## NetWare Client NIOS for DOS, MS Windows, and Windows95 Design Specification
+| Chapter             | Title                                                                       | Link                                         |
+| ------------------- | --------------------------------------------------------------------------- | -------------------------------------------- |
+| Title, TOC, Preface | NetWare Client NIOS for DOS, MS Windows, and Windows95 Design Specification | [DOS_FNT.pdf](PDF/NIOS/NIOSDOSW/DOS_FNT.pdf) |
+| Chapter 1           | NLM API Mapper Environment                                                  | [DOS_CH1.pdf](PDF/NIOS/NIOSDOSW/DOS_CH1.pdf) |
+| Chapter 2           | NIOS for DOS, MS Windows, and Windows95 Design                              | [DOS_CH2.pdf](PDF/NIOS/NIOSDOSW/DOS_CH2.pdf) |
+| Chapter 3           | NIOS DOS/MS Windows Client NLM                                              | [DOS_CH3.pdf](PDF/NIOS/NIOSDOSW/DOS_CH3.pdf) |
+| Chapter 4           | NIOS Client DOS APIs                                                        | [DOS_CH4.pdf](PDF/NIOS/NIOSDOSW/DOS_CH4.pdf) |
+| Chapter 5           | Real-Mode DOS APIs                                                          | [DOS_CH5.pdf](PDF/NIOS/NIOSDOSW/DOS_CH5.pdf) |
+| Chapter 6           | NIOS APIs for MS Windows                                                    | [DOS_CH6.pdf](PDF/NIOS/NIOSDOSW/DOS_CH6.pdf) |
+| Chapter 7           | NIOS APIs for Windows95                                                     | [DOS_CH7.pdf](PDF/NIOS/NIOSDOSW/DOS_CH7.pdf) |
+| Chapter 8           | DOS/Windows Structures, Definitions, and Events                             | [DOS_CH8.pdf](PDF/NIOS/NIOSDOSW/DOS_CH8.pdf) |
+| Chapter 9           | Network Configuration File                                                  | [DOS_CH9.pdf](PDF/NIOS/NIOSDOSW/DOS_CH9.pdf) |
